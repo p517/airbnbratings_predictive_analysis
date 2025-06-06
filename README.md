@@ -69,8 +69,6 @@ The decision tree built using the `rpart` package provides interpretable paths.
 ### Metric Comparison (Bar Chart)  
 ![image](https://github.com/user-attachments/assets/4ff083dc-9ebc-4309-a48a-38610d585826)
 
-📄 Tabular results saved at:  
-`visualizations/model_comparison_results.csv`
 
 ---
 
